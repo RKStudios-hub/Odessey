@@ -22,7 +22,7 @@
 > - 🌲 Elf Village <br>
 
 <p align="center">
-  🔮 <a href="https://github.com/RKStudios-hub/Odessey/blob/main/Progress.md?plain=1"><b>Check the Progress Here</b></a> 🔮
+  🔮 <a href="https://github.com/RKStudios-hub/Odessey/blob/main/Progress.md"><b>Check the Progress Here</b></a> 🔮
 </p>
 
 <p align="center">
